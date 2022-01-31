@@ -2,3 +2,4 @@ flask_api*
 __pycache__*
 node_modules*
 .env
+entorno_django*
